@@ -1,4 +1,4 @@
-#Sticky Notes
+# Sticky Notes
 - fork and clone
 - run live server
 
